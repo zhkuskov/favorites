@@ -69,7 +69,7 @@ msgstr "Операция не разрешена"
 
 #: /models/behaviors/favorite.php:141
 msgid "Already added."
-msgstr "Запись была добавена ранее."
+msgstr "Запись была добавлена ранее."
 
 #: /models/behaviors/favorite.php:151
 msgid "You cannot add more than %s items to this list"
